@@ -1,3 +1,5 @@
 # my-new-project
 
-This line includes changes from both branche
+New line
+
+This line includes changes from both branches.
